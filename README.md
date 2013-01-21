@@ -1,2 +1,2 @@
-HelloWidget
+Android HelloWidget example
 ===========
