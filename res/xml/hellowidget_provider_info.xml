@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appwidget-provider	xmlns:android="http://schemas.android.com/apk/res/android"
+    				android:initialLayout="@layout/hellowidget"
+    				android:minWidth="100dp"
+    				android:minHeight="60dp"
+    				android:updatePeriodMillis="0"/>
